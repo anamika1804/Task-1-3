@@ -1,0 +1,18 @@
+Question 3:
+
+One-Line Answers (Answers to be written on .txt file)-
+A. What is reverse-i-search in a Linux terminal?
+-> Allows you to search through your command history for a specific thing. 
+
+
+B. How do you list out the hidden directories using Linux command line tool?
+-> listing(ls) directories(d) whose name starts with a dot(A). command : ls -dA .*/
+
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+->I am comfortable using linux-based OS Ubuntu, 8/10
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+-> I have used SMTP and Nginx services for hosting 
